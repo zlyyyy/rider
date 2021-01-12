@@ -2,13 +2,14 @@
  * @Author: 明昼
  * @Date: 2021-01-11 13:57:12
  * @LastEditors: 明昼
- * @LastEditTime: 2021-01-12 14:44:00
+ * @LastEditTime: 2021-01-12 16:24:50
  * @Description: file content
  * @FilePath: /rider/.umirc.ts
  */
 import { defineConfig } from 'dumi';
 
-const repo = 'rider-hooks';
+// 仓库名称
+const repo = 'rider';
 
 export default defineConfig({
   title: repo,
