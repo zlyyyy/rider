@@ -2,7 +2,7 @@
  * @Author: 明昼
  * @Date: 2021-01-11 13:57:12
  * @LastEditors: 明昼
- * @LastEditTime: 2021-01-11 14:50:40
+ * @LastEditTime: 2021-01-12 14:44:00
  * @Description: file content
  * @FilePath: /rider/.umirc.ts
  */
@@ -13,9 +13,9 @@ const repo = 'rider-hooks';
 export default defineConfig({
   title: repo,
   favicon:
-    'https://user-images.githubusercontent.com/9554297/83762004-a0761b00-a6a9-11ea-83b4-9c8ff721d4b8.png',
+    'https://sitecdn.zcycdn.com/f2e-assets/7e21f2d2-750f-4916-830a-4dfe652b47c2.png',
   logo:
-    'https://user-images.githubusercontent.com/9554297/83762004-a0761b00-a6a9-11ea-83b4-9c8ff721d4b8.png',
+    'https://sitecdn.zcycdn.com/f2e-assets/7e21f2d2-750f-4916-830a-4dfe652b47c2.png',
   outputPath: 'docs-dist',
   mode: 'site',
   hash: true,
@@ -27,7 +27,7 @@ export default defineConfig({
     null,
     {
       title: 'GitHub',
-      path: 'https://github.com/umijs/dumi-template',
+      path: 'https://github.com/zlyyyy/rider',
     },
   ],
   // more config: https://d.umijs.org/config
